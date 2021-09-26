@@ -1,2 +1,2 @@
-# FrameTimerCamera
-A camera mod for satisfactory
+# FrameCameraTimer
+A satisfactory mod
